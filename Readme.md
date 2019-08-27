@@ -3,6 +3,7 @@
 # Welcome to the Data Thieves Project!
 
 In this project you will get all the data yourself! :scream:
+Get ready to present your Project on Friday :)
 
 ## Content
 
@@ -21,7 +22,9 @@ In this project you will get all the data yourself! :scream:
 
 ## Project Description
 
-In this project, you will choose a topic and find all the relevant data yourself. This means you can connect to an API, find a dataset or scrape data from the web. You then must organize, clean and analyse the data you find and present your findings in a presentation (you may use plots!) and a paper.
+In this project, you will choose a topic and find all the relevant data yourself from Kaggle.
+Afterwards, you should enrich it by connecting to an API, find a dataset or scrape data from the web.
+You then must organize, clean and analyse the data you find and present your findings in a presentation (you may use plots!).
 
 <a name="project-goals"></a>
 
@@ -79,38 +82,34 @@ _Tuesday & Wednesday_
 - Look for an interesting topic and make some hypothesis or think about some questions to answer about it.
 - Investigate which data sources are available for that topic.
 - Reach some best practices agreements as a team.
-- Plan your project and organize. Think some risks you can have.
+- Plan your project and organize. Think about some risks you can expect.
 - Start working on your database.
 
 _Thursday_
 
-- Be ready for the database validation with the Lead Teacher and TAs.
-- Start working on your analysis and plots. Think about the plots you want to create and the structure of your paper.
-- Finish your analysis
+- Start working on your analysis and plots. Think about the plots you want to create and the structure of your presentation.
+- Finish your analysis.
 - Start working on your presentation.
 
 _Friday_
 
 - Adjust your presentation.
-- Presentation!
+- Presentation!!
 
 <a name="json-structure"></a>
 
-## Json structure
+## README File structure
 
-No plots outside an SQL cell!  
-The json will be your paper and it is meant to have all the (analysis) information about your project.
+The README will be your paper and it is meant to have all the (analysis) information about your project.
 
 The structure should be:
 
 1. Title of the project
 2. Introduction to your project.
 3. Data you are using (and comments, main challenges, strengths & weaknesses, etc...)
-4. Questions you want to answer (maybe divided by different topics). Each question should include a graph and a conclusion written in a markdown cell.
+4. Questions you want to answer (maybe divided by different topics). Each question should include a conclusion written in a markdown cell.
 5. Conclusions after your analysis.
 6. Further questions.
-
-You can find some paper examples in the `Resources` section.
 
 <a name="presentation"></a>
 
