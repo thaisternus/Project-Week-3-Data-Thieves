@@ -61,7 +61,7 @@ You are required to turn in the following:
 
 ## Mentoring
 
-One of the TAs will be your mentor!
+Either a TA or the Lead Teacher will be your mentor!
 Your mentor will:
 
 - Follow your project in general, will be the second person that knows more about the project, after you.
